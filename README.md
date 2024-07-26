@@ -20,3 +20,5 @@
 1. Segurança e Eficiência dos Veículos: Veículos autônomos reduziram acidentes em 30% e melhoraram a eficiência do tráfego urbano.
 2. Fluxo de Trânsito Melhorado: A otimização do trânsito reduziu congestionamentos em áreas urbanas em até 25%.
 3. Logística Otimizada: A logística inteligente resultou em uma redução de 15% nos tempos de entrega e custos operacionais, melhorando a satisfação do cliente.
+
+[LINK PARA O PROJETO AQUI]()
